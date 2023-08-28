@@ -14,6 +14,13 @@ One of the standout features of this project is the dynamic linear chat and pie 
 ![Screenshot (5)](https://github.com/RachanaSonu/Intern-Task/assets/37769405/7ca69eca-6365-49e7-b002-5786eab1ecb6)
 
 # Directory Structure
+![Screenshot-6](https://github.com/RachanaSonu/Intern-Task/assets/37769405/f6aeeace-cc7d-40d3-9ca5-6dbb3beb2e98)
 
+# Installation
+To install and run this React project, follow the steps below:
+
+git clone Clone Repo https://github.com/
+Go to the folder and install dependencies with: yarn install or npm install
+Run the app with yarn start or npm start
 
 
