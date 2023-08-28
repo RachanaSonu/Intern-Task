@@ -1,4 +1,4 @@
-# Intern-Task(React Js Dashboard - Responsive)
+# Intern-Task(React.Js Dashboard - Responsive)
 ReactJs Dashboard with Google Auth Sign-in/Sign-up feature.
 
 # Project Description
@@ -19,8 +19,8 @@ One of the standout features of this project is the dynamic linear chat and pie 
 # Installation
 To install and run this React project, follow the steps below:
 
-git clone Clone Repo https://github.com/
-Go to the folder and install dependencies with: yarn install or npm install
-Run the app with yarn start or npm start
++ git clone https://github.com/RachanaSonu/Intern-Task.git
++ Go to the folder and install dependencies with:npm install
++ Run the app with npm start
 
 
