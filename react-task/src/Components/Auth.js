@@ -5,7 +5,7 @@ import { getAuth, GoogleAuthProvider } from 'firebase/auth';
 const firebaseConfig = {
   apiKey: "AIzaSyBGnqwsY-hjaNQi9AomheVARiJ5IoCvyRw",
 
-  authDomain: "listedassignment-62fcf.firebaseapp.com",
+  authDomain: "istedassignment-62fcf.firebaseapp.com",
 
   projectId: "listedassignment-62fcf",
 
