@@ -5,11 +5,11 @@ import { getAuth, GoogleAuthProvider } from 'firebase/auth';
 const firebaseConfig = {
   apiKey: "AIzaSyBGnqwsY-hjaNQi9AomheVARiJ5IoCvyRw",
 
-  authDomain: "listedassignment-62fcf.firebaseapp.com",
+  authDomain: "InternTask.firebaseapp.com",
 
-  projectId: "listedassignment-62fcf",
+  projectId: "InternTask",
 
-  storageBucket: "listedassignment-62fcf.appspot.com",
+  storageBucket: "InternTask.appspot.com",
 
   messagingSenderId: "970823432142",
 
