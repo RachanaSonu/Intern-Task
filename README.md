@@ -1,5 +1,5 @@
 # Intern-Task(React.Js Dashboard - Responsive)
-ReactJs Dashboard with Google Auth Sign-in/Sign-up feature
+ReactJs Dashboard with Google Auth Sign-in/Sign-up feature.
 
 # Project Description
 I have developed this dashboard as part of an internship hiring assignment for Listed (https://listed.fans/). The dashboard is built using React.js along with a sign-in page that implements basic authentication using Google for user login and signup. To enhance my productivity and streamline my CSS workflow, I utilized SCSS, a CSS compiler engine.
