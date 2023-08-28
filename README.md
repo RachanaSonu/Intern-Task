@@ -20,7 +20,7 @@ One of the standout features of this project is the dynamic linear chat and pie 
 To install and run this React project, follow the steps below:
 
 + git clone https://github.com/RachanaSonu/Intern-Task.git
-+ Go to the folder and install dependencies with:npm install
-+ Run the app with npm start
++ Go to the folder and install dependencies with:npm install.
++ Run the app with npm start.
 
 
